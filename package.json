@@ -66,7 +66,7 @@
     "babel-eslint": "^7.1.1",
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
-    "chromedriver": "^2.34.0",
+    "chromedriver": "2.39.0",
     "content-disposition": "^0.5.0",
     "eslint": "^3.10.2",
     "eslint-config-appium": "^2.1.0",
